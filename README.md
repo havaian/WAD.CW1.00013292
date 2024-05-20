@@ -19,7 +19,7 @@ The application is built around a two-layer architecture with a separate API lay
 - AutoMapper
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/havaian/WAD.CW1.00013292`
+1. Clone the repository: `git clone https://github.com/havaian/WAD.CW1.00013292.git`
 2. Install the dependencies: `dotnet restore`
 3. Build the project: `dotnet build`
 4. Run the application: `dotnet run`
